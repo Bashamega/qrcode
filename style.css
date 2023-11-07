@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100&family=Rubik:ital,wght@0,300;1,700&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:#d6e2f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+div{
+    background-color: #fff;
+    padding:10px;
+    border-radius: 5px;
+    width:300px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+div img{
+    width:100%;
+    border-radius: 5px;
+    margin-bottom: 5%;
+}
+p{
+    color:#7b879d;
+}
